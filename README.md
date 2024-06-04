@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ar G Ho</h1>
-<h3 align="center">A passionate Flutter developer from Bangladesh</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iargho&show_icons=true&locale=en" alt="iargho" /></p>
 
