@@ -7,6 +7,6 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=iargho&show_icons=true&locale=en&layout=compact&theme=dark" 
     alt="iargho's top languages" 
-    style="flex: 1; height: 200px; object-fit: cover;" 
+    style="flex: 1; height: 200px;" 
   />
 </div>
