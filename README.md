@@ -1,4 +1,4 @@
-<div style="display: flex; width: 100%;">
+<div style="display: flex; width: 100%; gap: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=iargho&show_icons=true&locale=en&theme=dark&hide_rank=true" 
     alt="iargho's GitHub stats" 
