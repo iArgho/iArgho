@@ -1,12 +1,12 @@
-<div align="center" style="display: flex; justify-content: center;">
+<div style="display: flex; width: 100%;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=iargho&show_icons=true&locale=en&theme=dark&hide_rank=true&card_width=400" 
+    src="https://github-readme-stats.vercel.app/api?username=iargho&show_icons=true&locale=en&theme=dark&hide_rank=true" 
     alt="iargho's GitHub stats" 
-    style="width: 400px; height: 200px; margin-right: 10px;" 
+    style="flex: 1; height: 200px; object-fit: cover;" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=iargho&show_icons=true&locale=en&layout=compact&theme=dark&card_width=400" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=iargho&show_icons=true&locale=en&layout=compact&theme=dark" 
     alt="iargho's top languages" 
-    style="width: 400px; height: 200px;" 
+    style="flex: 1; height: 200px; object-fit: cover;" 
   />
 </div>
